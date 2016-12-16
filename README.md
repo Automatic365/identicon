@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**A program that creates Github Identicons based on the input. Built while learning to program in Elixir**
 
 ## Installation
 
@@ -21,4 +21,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:identicon]]
     end
     ```
-
